@@ -8,4 +8,4 @@
 | [Определение камня или мины на основе данных сонара](https://github.com/Nikita-Kos/Capstone-Project/tree/main/3.%20Project) | Исследование файла с данными о минах и камнях на основе KNN| *Pandas*, *Seaborn*, *sklearn*| 
 | [Предсказание настоящих и поддельных вин](https://github.com/Nikita-Kos/Capstone-Project/tree/main/4.%20Project) | Используя данные, разработаем модель машинного обучения с методом SVM, которая будет предсказывать на основе некоторых химических тестов, является ли вино настоящим или поддельным.| *Pandas*, *Seaborn*, *sklearn*| 
 | [Предсказание с помощью деревьев решений](https://github.com/Nikita-Kos/Capstone-Project/tree/main/5.%20Project) | Предсказание различных данных с помощью деревьев решений и моделей регрессии| *Pandas*, *Seaborn*, *sklearn*| 
-| [Большой проект по обучению с учителем](https://github.com/Nikita-Kos/Capstone-Project/tree/main/5.%20Project) | Завершающий проект по обучению с учителем| *Pandas*, *Seaborn*, *sklearn*| 
+| [Большой проект по обучению с учителем](https://github.com/Nikita-Kos/Capstone-Project/tree/main/6.%20Project) | Завершающий проект по обучению с учителем| *Pandas*, *Seaborn*, *sklearn*| 
