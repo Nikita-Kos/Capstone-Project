@@ -10,3 +10,4 @@
 | [Предсказание с помощью деревьев решений](https://github.com/Nikita-Kos/Capstone-Project/tree/main/5.%20Project) | Предсказание различных данных с помощью деревьев решений и моделей регрессии| *Pandas*, *Seaborn*, *sklearn*| 
 | [Большой проект по обучению с учителем](https://github.com/Nikita-Kos/Capstone-Project/tree/main/6.%20Project) | Завершающий проект по обучению с учителем| *Pandas*, *Seaborn*, *sklearn*| 
 | [Предсказание по тексту](https://github.com/Nikita-Kos/Capstone-Project/tree/main/7.%20Project) | На основе данных с текстовыми отзывами о фильмах выполнили обучение модели и предсказание| *Pandas*, *Seaborn*, *sklearn*| 
+| [Использование метода K-Means](https://github.com/Nikita-Kos/Capstone-Project/tree/main/8.%20Project) | Исследование и обработка файла со странами и использования метода K-Means| *Pandas*, *Seaborn*, *sklearn*| 
