@@ -12,4 +12,4 @@
 | [Предсказание по тексту](https://github.com/Nikita-Kos/Capstone-Project/tree/main/7.%20Project) | На основе данных с текстовыми отзывами о фильмах выполнили обучение модели и предсказание| *Pandas*, *Seaborn*, *sklearn*| 
 | [Использование метода K-Means](https://github.com/Nikita-Kos/Capstone-Project/tree/main/8.%20Project) | Исследование и обработка файла со странами и использование метода K-Means| *Pandas*, *Seaborn*, *sklearn*| 
 | [Использование метода DBSCAN](https://github.com/Nikita-Kos/Capstone-Project/tree/main/9.%20Project) | Исследование и обработка файла с продуктами и использование метода DBSCAN| *Pandas*, *Seaborn*, *sklearn*| 
-| [Использование метода главных компонент](https://github.com/Nikita-Kos/Capstone-Project/tree/main/10.%20Project) | Определение раковых опухолей с помощью метода главных компонент| *Pandas*, *Seaborn*, *sklearn*| 
+| [Использование метода главных компонент](https://github.com/Nikita-Kos/Capstone-Project/tree/main/10.%20Project) | Определение по пикселям принадлежность к определенным цифрам с помощью метода главных компонент| *Pandas*, *Seaborn*, *sklearn*| 
